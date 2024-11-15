@@ -1,1 +1,1 @@
-![](images/G070561.png)
+![](images/G070561.svg)
