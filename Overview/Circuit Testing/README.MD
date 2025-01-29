@@ -28,13 +28,16 @@
 ![](images/G049903.svg)
 
 ## Circuit troubleshooting method
-- Third item
-    - Indented item
+*  Use the test light to find the faults
+  * At connector A, a loop is established with the test light and the battery. If the test light is on, it indicates that there is no fault at connector A;
+  * At connector B, a loop is established with the test light and the battery. Turn on the circuit switch as shown in the figure. The test light turning on indicates that there is no fault at connector A and the switch;
+  * At connector C, use a test light to establish a primary loop with the battery. Turn on the circuit switch as shown in the figure. The test light and the electric appliance working indicates that there is no fault at connector C and the electric appliance;
+  * Check the circuit grounding.
 
 ![](images/G049904.svg)
 
 * Identify faults with a multimeter
-** Set the multimeter function selector switch to ON/OFF test position;
-** The multimeter black probe is grounded;
-** Set the multimeter red probe at each connection in the circuit to measure voltage in the same way as using the fault lamp.
-** Determine the fault point if the multimeter displays voltage.
+ * Set the multimeter function selector switch to ON/OFF test position;
+ * The multimeter black probe is grounded;
+ * Set the multimeter red probe at each connection in the circuit to measure voltage in the same way as using the fault lamp.
+ * Determine the fault point if the multimeter displays voltage.
