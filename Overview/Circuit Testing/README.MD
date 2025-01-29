@@ -37,7 +37,7 @@
 ![](images/G049904.svg)
 
 * Identify faults with a multimeter
- * Set the multimeter function selector switch to ON/OFF test position;
- * The multimeter black probe is grounded;
- * Set the multimeter red probe at each connection in the circuit to measure voltage in the same way as using the fault lamp.
- * Determine the fault point if the multimeter displays voltage.
+    * Set the multimeter function selector switch to ON/OFF test position;
+    * The multimeter black probe is grounded;
+    * Set the multimeter red probe at each connection in the circuit to measure voltage in the same way as using the fault lamp.
+    * Determine the fault point if the multimeter displays voltage.
