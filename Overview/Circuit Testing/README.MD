@@ -28,12 +28,9 @@
 ![](images/G049903.svg)
 
 ## Circuit troubleshooting method
-* Use the test light to find the faults
-** As shown in the circuit, when one end of the test light is grounded and the other end is tested at both ends of the fuse, test light goes on indicating that the fuse is not faulty;
-** At connector A, a loop is established with the test light and the battery. If the test light is on, it indicates that there is no fault at connector A;
-** At connector B, a loop is established with the test light and the battery. Turn on the circuit switch as shown in the figure. The test light turning on indicates that there is no fault at connector A and the switch;
-** At connector C, use a test light to establish a primary loop with the battery. Turn on the circuit switch as shown in the figure. The test light and the electric appliance working indicates that there is no fault at connector C and the electric appliance;
-** Check the circuit grounding.
+- Third item
+    - Indented item
+
 ![](images/G049904.svg)
 
 * Identify faults with a multimeter
