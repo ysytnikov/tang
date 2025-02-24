@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="240.945px" height="155.905px" viewBox="0 0 240.945 155.905" enable-background="new 0 0 240.945 155.905"
+	 xml:space="preserve">
+<g id="图层_2">
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 93.7012 101.6611)" font-family="'ArialMT'" font-size="8">1</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 138.6279 101.6611)" font-family="'ArialMT'" font-size="8">2</text>
+		</g>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="128.589" y1="69.977" x2="172.524" y2="69.977"/>
+		
+			<path fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M128.589,69.977"/>
+		
+			<path fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M111.755,69.977"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="128.589" y1="57.709" x2="128.589" y2="69.977"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="111.755,69.977 111.755,57.709 
+			106.331,57.709 106.331,50.576 134.009,50.576 134.009,57.709 128.589,57.709 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="111.755" y1="69.977" x2="128.589" y2="69.977"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="172.524,69.977 172.524,124.474 
+			67.527,124.474 67.527,69.977 111.755,69.977 		"/>
+		
+			<rect x="119.459" y="73.972" fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="44.224" height="47.077"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			119.459,121.049 72.38,121.049 72.38,73.972 119.459,73.972 		"/>
+	</g>
+</g>
+<g id="S1">
+	<rect x="5.67" y="5.669" fill="none" width="229.604" height="36.851"/>
+	<g>
+		<path fill="#FFFFFF" d="M0,0v155.905h240.944V0H0z M5.67,5.669h229.604v144.566H41.103v-7.086H5.67V5.669z"/>
+		<rect x="4.819" y="141.731" fill="#FFFFFF" width="70.866" height="8.504"/>
+		<rect fill="none" stroke="#FFFFFF" stroke-width="1.1339" width="240.944" height="155.905"/>
+	</g>
+	<polyline fill="none" points="5.67,42.52 5.67,5.669 235.274,5.669 235.274,42.52 	"/>
+</g>
+</svg>
